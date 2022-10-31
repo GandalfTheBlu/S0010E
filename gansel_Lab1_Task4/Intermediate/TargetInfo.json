@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "gansel_Lab1_Task4",
+			"Path": "C:\\Users\\Gandalf\\Documents\\LTU\\PROGRAMVARUTEKNIK\\S0010E\\gansel_Lab1_Task4\\Source\\gansel_Lab1_Task4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "gansel_Lab1_Task4Editor",
+			"Path": "C:\\Users\\Gandalf\\Documents\\LTU\\PROGRAMVARUTEKNIK\\S0010E\\gansel_Lab1_Task4\\Source\\gansel_Lab1_Task4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

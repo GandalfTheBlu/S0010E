@@ -1,0 +1,14 @@
+In this lab I have been introduced to Unreal Engine 4, it was the first time I ever used it.
+
+I have tried out UE4's visual scripting, which I think can be a very usefull tool once I have gotten used to it.
+UE4's template projects, I think, are impressively many and the built-in classes that are provided (although I have only encountered 
+a few so far) seem very capable and versitile.
+
+I am, however, not too fond of the general UI design; It looks a bit outdated and too childish for my taste and the visual clutter
+is a bit too much. I figure that it will take some getting used to.
+
+It took some time to decide on how to organize the projects here on GitHub but I am happy with the way it turned out. I am not sure
+if the .gitignore is working though, there seem to be a lot of files being sent, but I don't know which are necessary and which are not.
+
+I think this first lab was a good getting-started lab, the instructions were easy to follow and there was not too much content.
+I was able to complete this the first day, so perhaps 3-4 hours including the videos in tasks 1 and 2.

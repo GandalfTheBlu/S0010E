@@ -1,0 +1,9 @@
+C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task3to5\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab2_Task3to5\Definitions.gansel_Lab2_Task3to5.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task3to5\Source\gansel_Lab2_Task3to5/gansel_Lab2_Task3to5GameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task3to5\Intermediate\Build\Win64\UE4Editor\Inc\gansel_Lab2_Task3to5\gansel_Lab2_Task3to5GameMode.generated.h

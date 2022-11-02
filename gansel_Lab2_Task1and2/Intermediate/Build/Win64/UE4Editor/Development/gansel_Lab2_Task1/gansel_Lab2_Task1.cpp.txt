@@ -1,0 +1,2 @@
+C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task1\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab2_Task1\Definitions.gansel_Lab2_Task1.h
+C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task1\Source\gansel_Lab2_Task1\gansel_Lab2_Task1.h

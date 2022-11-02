@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\gansel_Lab2_Task3to5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E89D9FA7-3F5A-4990-AC5A-4420FFF39EA7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\gansel_Lab2_Task3to5.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\gansel_Lab2_Task3to5Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8106F3E3-68E0-44BC-B9A6-5ED518ADBBFA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\gansel_Lab2_Task3to5">
+      <UniqueIdentifier>{6B7D8D48-62F1-414C-B9E5-19EA993E5E02}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\gansel_Lab2_Task3to5\gansel_Lab2_Task3to5.Build.cs">
+      <Filter>Source\gansel_Lab2_Task3to5</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\gansel_Lab2_Task3to5\gansel_Lab2_Task3to5.cpp">
+      <Filter>Source\gansel_Lab2_Task3to5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gansel_Lab2_Task3to5\gansel_Lab2_Task3to5.h">
+      <Filter>Source\gansel_Lab2_Task3to5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gansel_Lab2_Task3to5\gansel_Lab2_Task3to5Character.cpp">
+      <Filter>Source\gansel_Lab2_Task3to5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gansel_Lab2_Task3to5\gansel_Lab2_Task3to5Character.h">
+      <Filter>Source\gansel_Lab2_Task3to5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gansel_Lab2_Task3to5\gansel_Lab2_Task3to5GameMode.cpp">
+      <Filter>Source\gansel_Lab2_Task3to5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gansel_Lab2_Task3to5\gansel_Lab2_Task3to5GameMode.h">
+      <Filter>Source\gansel_Lab2_Task3to5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gansel_Lab2_Task3to5\MyThirdPersonChar.cpp">
+      <Filter>Source\gansel_Lab2_Task3to5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gansel_Lab2_Task3to5\MyThirdPersonChar.h">
+      <Filter>Source\gansel_Lab2_Task3to5</Filter>
+    </ClInclude>
+    <Filter Include="Source\gansel_Lab2_Task3to5\TP_Flying">
+      <UniqueIdentifier>{0C14B531-98A9-4C73-ADD8-67BB6258B256}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\gansel_Lab2_Task3to5\TP_Flying\TP_Flying.h">
+      <Filter>Source\gansel_Lab2_Task3to5\TP_Flying</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gansel_Lab2_Task3to5\TP_Flying\TP_FlyingGameMode.cpp">
+      <Filter>Source\gansel_Lab2_Task3to5\TP_Flying</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gansel_Lab2_Task3to5\TP_Flying\TP_FlyingGameMode.h">
+      <Filter>Source\gansel_Lab2_Task3to5\TP_Flying</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gansel_Lab2_Task3to5\TP_Flying\TP_FlyingPawn.cpp">
+      <Filter>Source\gansel_Lab2_Task3to5\TP_Flying</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gansel_Lab2_Task3to5\TP_Flying\TP_FlyingPawn.h">
+      <Filter>Source\gansel_Lab2_Task3to5\TP_Flying</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

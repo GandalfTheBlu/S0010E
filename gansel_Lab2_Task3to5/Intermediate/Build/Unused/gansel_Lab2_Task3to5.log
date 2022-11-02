@@ -1,0 +1,12 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Gandalf\git\S0010E).
+  Building gansel_Lab2_Task3to5Editor...
+  Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 32 processes...
+    [1/4] MyThirdPersonChar.cpp
+    [2/4] UE4Editor-gansel_Lab2_Task3to5-0004.lib
+       Creating library C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task3to5\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab2_Task3to5\UE4Editor-gansel_Lab2_Task3to5-0004.lib and object C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task3to5\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab2_Task3to5\UE4Editor-gansel_Lab2_Task3to5-0004.exp
+    [3/4] UE4Editor-gansel_Lab2_Task3to5-0004.dll
+       Creating library C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task3to5\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab2_Task3to5\UE4Editor-gansel_Lab2_Task3to5-0004.suppressed.lib and object C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task3to5\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab2_Task3to5\UE4Editor-gansel_Lab2_Task3to5-0004.suppressed.exp
+    [4/4] gansel_Lab2_Task3to5Editor.target
+  Total time in Parallel executor: 1,50 seconds
+  Total execution time: 2,04 seconds

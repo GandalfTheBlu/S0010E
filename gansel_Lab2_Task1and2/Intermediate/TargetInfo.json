@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "gansel_Lab2_Task1",
+			"Path": "C:\\Users\\Gandalf\\git\\S0010E\\gansel_Lab2_Task1\\Source\\gansel_Lab2_Task1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "gansel_Lab2_Task1Editor",
+			"Path": "C:\\Users\\Gandalf\\git\\S0010E\\gansel_Lab2_Task1\\Source\\gansel_Lab2_Task1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

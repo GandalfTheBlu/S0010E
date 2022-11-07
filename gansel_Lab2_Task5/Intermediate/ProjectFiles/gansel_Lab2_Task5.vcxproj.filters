@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\gansel_Lab2_Task5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A93317D1-521A-473A-9A6F-0B39B88CCAAD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\gansel_Lab2_Task5.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\gansel_Lab2_Task5Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CDE13091-418C-439D-9047-22E4EB0539A6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\gansel_Lab2_Task5">
+      <UniqueIdentifier>{BB7180A4-F85F-426B-82CC-72C0DE420F2B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\gansel_Lab2_Task5\gansel_Lab2_Task5.Build.cs">
+      <Filter>Source\gansel_Lab2_Task5</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\gansel_Lab2_Task5\gansel_Lab2_Task5.cpp">
+      <Filter>Source\gansel_Lab2_Task5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gansel_Lab2_Task5\gansel_Lab2_Task5.h">
+      <Filter>Source\gansel_Lab2_Task5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gansel_Lab2_Task5\gansel_Lab2_Task5GameModeBase.cpp">
+      <Filter>Source\gansel_Lab2_Task5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gansel_Lab2_Task5\gansel_Lab2_Task5GameModeBase.h">
+      <Filter>Source\gansel_Lab2_Task5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\gansel_Lab2_Task5\MyThirdPersonChar.cpp">
+      <Filter>Source\gansel_Lab2_Task5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\gansel_Lab2_Task5\MyThirdPersonChar.h">
+      <Filter>Source\gansel_Lab2_Task5</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

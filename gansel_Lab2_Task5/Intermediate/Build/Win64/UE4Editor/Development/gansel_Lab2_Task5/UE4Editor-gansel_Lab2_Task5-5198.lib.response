@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-gansel_Lab2_Task5-5198.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task5\Intermediate\Build\Win64\gansel_Lab2_Task5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task5\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab2_Task5\gansel_Lab2_Task5.cpp.obj"
+"C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task5\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab2_Task5\gansel_Lab2_Task5GameModeBase.cpp.obj"
+"C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task5\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab2_Task5\MyThirdPersonChar.cpp.obj"
+"C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task5\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab2_Task5\gansel_Lab2_Task5.init.gen.cpp.obj"
+"C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task5\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab2_Task5\gansel_Lab2_Task5GameModeBase.gen.cpp.obj"
+"C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task5\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab2_Task5\MyThirdPersonChar.gen.cpp.obj"
+"C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task5\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab2_Task5\Default.rc2.res"
+/OUT:"C:\Users\Gandalf\git\S0010E\gansel_Lab2_Task5\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab2_Task5\UE4Editor-gansel_Lab2_Task5-5198.lib"

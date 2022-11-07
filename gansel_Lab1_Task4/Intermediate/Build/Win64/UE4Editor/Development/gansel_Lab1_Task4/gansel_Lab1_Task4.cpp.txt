@@ -1,2 +1,2 @@
-C:\Users\Gandalf\Documents\LTU\PROGRAMVARUTEKNIK\S0010E\gansel_Lab1_Task4\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab1_Task4\Definitions.gansel_Lab1_Task4.h
-C:\Users\Gandalf\Documents\LTU\PROGRAMVARUTEKNIK\S0010E\gansel_Lab1_Task4\Source\gansel_Lab1_Task4\gansel_Lab1_Task4.h
+C:\Users\Gandalf\git\S0010E\gansel_Lab1_Task4\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab1_Task4\Definitions.gansel_Lab1_Task4.h
+C:\Users\Gandalf\git\S0010E\gansel_Lab1_Task4\Source\gansel_Lab1_Task4\gansel_Lab1_Task4.h

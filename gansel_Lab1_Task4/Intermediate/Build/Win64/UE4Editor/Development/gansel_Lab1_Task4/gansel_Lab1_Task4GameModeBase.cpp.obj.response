@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\Gandalf\Documents\LTU\PROGRAMVARUTEKNIK\S0010E\gansel_Lab1_Task4\Intermediate\Build\Win64\UE4Editor\Inc\gansel_Lab1_Task4
-/I C:\Users\Gandalf\Documents\LTU\PROGRAMVARUTEKNIK\S0010E\gansel_Lab1_Task4\Source
+/I C:\Users\Gandalf\git\S0010E\gansel_Lab1_Task4\Intermediate\Build\Win64\UE4Editor\Inc\gansel_Lab1_Task4
+/I C:\Users\Gandalf\git\S0010E\gansel_Lab1_Task4\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -256,18 +256,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\Gandalf\Documents\LTU\PROGRAMVARUTEKNIK\S0010E\gansel_Lab1_Task4\Intermediate\Build\Win64\gansel_Lab1_Task4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\Gandalf\Documents\LTU\PROGRAMVARUTEKNIK\S0010E\gansel_Lab1_Task4\Intermediate\Build\Win64\gansel_Lab1_Task4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\Gandalf\Documents\LTU\PROGRAMVARUTEKNIK\S0010E\gansel_Lab1_Task4\Intermediate\Build\Win64\gansel_Lab1_Task4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\Gandalf\Documents\LTU\PROGRAMVARUTEKNIK\S0010E\gansel_Lab1_Task4\Source\gansel_Lab1_Task4\gansel_Lab1_Task4GameModeBase.cpp"
-/FI"C:\Users\Gandalf\Documents\LTU\PROGRAMVARUTEKNIK\S0010E\gansel_Lab1_Task4\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab1_Task4\Definitions.gansel_Lab1_Task4.h"
-/Fo"C:\Users\Gandalf\Documents\LTU\PROGRAMVARUTEKNIK\S0010E\gansel_Lab1_Task4\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab1_Task4\gansel_Lab1_Task4GameModeBase.cpp.obj"
+/FI"C:\Users\Gandalf\git\S0010E\gansel_Lab1_Task4\Intermediate\Build\Win64\gansel_Lab1_Task4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\Gandalf\git\S0010E\gansel_Lab1_Task4\Intermediate\Build\Win64\gansel_Lab1_Task4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Gandalf\git\S0010E\gansel_Lab1_Task4\Intermediate\Build\Win64\gansel_Lab1_Task4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\Gandalf\git\S0010E\gansel_Lab1_Task4\Source\gansel_Lab1_Task4\gansel_Lab1_Task4GameModeBase.cpp"
+/FI"C:\Users\Gandalf\git\S0010E\gansel_Lab1_Task4\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab1_Task4\Definitions.gansel_Lab1_Task4.h"
+/Fo"C:\Users\Gandalf\git\S0010E\gansel_Lab1_Task4\Intermediate\Build\Win64\UE4Editor\Development\gansel_Lab1_Task4\gansel_Lab1_Task4GameModeBase.cpp.obj"
 /TP
 /GR-
 /W4
